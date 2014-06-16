@@ -1,7 +1,9 @@
 Install or check node
+
 node -v
 
 Install ionic and cordova
+
 sudo npm install -g cordova ionic ios-sim
 
  
