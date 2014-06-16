@@ -1,18 +1,32 @@
+
+ Ionic App - Rematch
+=====================
+
 Install or check node
-node -v
 
-Install ionic and cordova
-sudo npm install -g cordova ionic ios-sim
+```bash
+$ node -v
+```
 
- 
+Install ionic, cordova and ios sdk
+
+```bash
+$ sudo npm install -g cordova ionic ios-sim
+```
+
 Create project "rematch" with ionic template "tabs"
-ionic start rematch tabs
 
-Add and build ios platform  
+```bash
+ionic start rematch tabs
+```
+
+Add and build ios platform 
+
+```bash
 ionic platform add ios
 ionic build ios
 ionic emulate ios
-
+```
 
   543  ionic add platform android
   544  ionic add platform
