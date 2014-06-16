@@ -8,12 +8,17 @@ sudo npm install -g cordova ionic ios-sim
 
  
 Create project "rematch" with ionic template "tabs"
+
 ionic start rematch tabs
 
-Add and build ios platform  
+Add and build ios platform 
+
 ionic platform add ios
+
 ionic build ios
+
 ionic emulate ios
+
 
 
   543  ionic add platform android
