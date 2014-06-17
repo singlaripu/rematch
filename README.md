@@ -49,5 +49,7 @@ export JAVA_HOME=$(/usr/libexec/java_home)
 Finally 
 ```bash
 $ ionic platform add android
+$ ionic build android
+$ ionic emulate android
 ```
 
