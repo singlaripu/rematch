@@ -28,13 +28,6 @@ $ ionic build ios
 $ ionic emulate ios
 ```
 
-Add and build ios platform 
-
-```bash
-$ ionic platform add ios
-$ ionic build ios
-$ ionic emulate ios
-```
 
 Add and build android platform
 
